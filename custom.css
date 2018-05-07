@@ -24,7 +24,7 @@ h1 {
   margin: auto;
   background: wheat;
   width: 500px;
-  overflow: auto;
+  overflow: hidden;
   padding: 50px 0;
 }
 
