@@ -1,0 +1,147 @@
+/***** CSS For Holstee Manifesto ******/
+
+/****** Main Body Styles *******/
+body {
+  background: #fff;
+  margin: auto;
+}
+
+p, h1 {
+  color: #262626
+}
+
+
+/******* Header Styles *******/
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+
+}
+/***** Main Container Styles *****/
+
+#main-container {
+  margin: auto;
+  background: wheat;
+  width: 500px;
+  overflow: auto;
+  padding: 50px 0;
+}
+
+/***** First Box Styles *****/
+
+.first-box {
+float: left;
+background-color: #f16059;
+margin-left: 25px;
+padding: 25px;
+width: 200px;
+height: 400px;
+}
+
+/***** First container Styles *****/
+
+.first-container {
+  float: left;
+  width: 200px;
+}
+
+.second-box {
+  background-color: #4357ad;
+  float: left;
+  padding: 20px;
+}
+
+.third-box {
+  background-color:  #66c1e5;
+  padding: 20px;
+  height: 410px;
+
+  }
+
+/****** Second Container Styles *****/
+
+.second-container {
+  width: 500px;
+  margin-left: 25px;
+  clear: both;
+
+}
+
+.fourth-box {
+  float: left;
+  width: 210px;
+  padding: 20px;
+  height: 200px;
+  background-color: #4357ad;
+}
+
+.fifth-box {
+  float: left;
+  width: 160px;
+  padding: 20px;
+  height: 200px;
+  background-color: #509eab;
+}
+
+
+/****** Third Container Styles ******/
+
+.third-container {
+  width: 500px;
+  float: left;
+  clear: both;
+}
+
+.sixth-box {
+  float: left;
+  background-color:  #66c1e5;
+  padding: 20px;
+  margin-left: 25px;
+  width: 210px;
+  height: 190px;
+}
+
+.seventh-box {
+  float: left;
+  background-color: #509eab;
+  margin-left: 25px;
+  width: 210px;
+  padding: 50px 20px 20px 20px;
+  height: 170px;
+
+}
+
+/******* Eighth Box Styles ******/
+
+
+.eighth-box {
+  background-color: #f16059;
+  float: left;
+  width: 160px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  margin-top: -230px;
+}
+
+/******** Text Styles *******/
+
+.large-box {
+  font-size: 26px;
+}
+
+.emphasized-text {
+  font-family: 'Grand Hotel', cursive;
+  color: wheat;
+}
+
+.small-box, .second-quote {
+  font-family: 'Lato', sans-serif;
+}
+
+.small-box {
+  margin-top: 21px;
+  margin-left: 10px;
+  font-size: 20px;
+}
